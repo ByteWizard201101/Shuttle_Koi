@@ -1,0 +1,16 @@
+[29-Jun-2025 21:46:24 Europe/Berlin] PHP Fatal error:  Uncaught Error: PDOStatement::bindParam(): Argument #2 ($var) cannot be passed by reference in C:\xampp\htdocs\DBMS Project\driver\trip_management.php:94
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\DBMS Project\driver\trip_management.php on line 94
+[29-Jun-2025 21:46:24 Europe/Berlin] PHP Fatal error:  Uncaught Error: PDOStatement::bindParam(): Argument #2 ($var) cannot be passed by reference in C:\xampp\htdocs\DBMS Project\driver\trip_management.php:94
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\DBMS Project\driver\trip_management.php on line 94
+[29-Jun-2025 21:46:24 Europe/Berlin] PHP Fatal error:  Uncaught Error: PDOStatement::bindParam(): Argument #2 ($var) cannot be passed by reference in C:\xampp\htdocs\DBMS Project\driver\trip_management.php:94
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\DBMS Project\driver\trip_management.php on line 94
+[29-Jun-2025 21:46:28 Europe/Berlin] PHP Fatal error:  Uncaught Error: PDOStatement::bindParam(): Argument #2 ($var) cannot be passed by reference in C:\xampp\htdocs\DBMS Project\driver\trip_management.php:94
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\DBMS Project\driver\trip_management.php on line 94
